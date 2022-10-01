@@ -149,7 +149,7 @@ section {
   position: relative;
 }
 
-/* .active-page::after {
+.active-page::after {
   display: block;
   content: "";
   text-align: center;
@@ -160,7 +160,7 @@ section {
   border: 2px solid;
   border-radius: 10px;
   position: absolute;
-} */
+}
 
 .header-contacts {
   display: flex;
